@@ -1,0 +1,13 @@
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.pdb
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.xml
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\obj\x86\Debug\ProjectGUI.Form1.resources
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\obj\x86\Debug\ProjectGUI.Resources.resources
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\obj\x86\Debug\ProjectGUI.vbproj.GenerateResource.Cache
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\obj\x86\Debug\ProjectGUI.exe
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\obj\x86\Debug\ProjectGUI.xml
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\obj\x86\Debug\ProjectGUI.pdb
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\obj\x86\Debug\ProjectGUI.Form2.resources
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\obj\x86\Debug\ProjectGUI.Form3.resources
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\obj\x86\Debug\ProjectGUI.Form4.resources
+D:\UKDW\Semester 5\GUI\ProjectGUI\ProjectGUI\obj\x86\Debug\ProjectGUI.BoardControl.resources
